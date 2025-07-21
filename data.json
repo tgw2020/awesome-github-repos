@@ -1,4 +1,40 @@
 {
+  "JavaScript": [
+    {
+      "id": 1019622726,
+      "node_id": "R_kgDOPMY1Rg",
+      "name": "awesome-github-repos",
+      "full_name": "tonngw/awesome-github-repos",
+      "owner": {
+        "login": "tonngw",
+        "id": 33111688,
+        "avatar_url": "https://avatars.githubusercontent.com/u/33111688?v=4",
+        "url": "https://api.github.com/users/tonngw",
+        "html_url": "https://github.com/tonngw"
+      },
+      "html_url": "https://github.com/tonngw/awesome-github-repos",
+      "description": "🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.",
+      "url": "https://api.github.com/repos/tonngw/awesome-github-repos",
+      "languages_url": "https://api.github.com/repos/tonngw/awesome-github-repos/languages",
+      "created_at": "2025-07-14T16:00:22Z",
+      "updated_at": "2025-07-21T01:52:16Z",
+      "git_url": "git://github.com/tonngw/awesome-github-repos.git",
+      "ssh_url": "git@github.com:tonngw/awesome-github-repos.git",
+      "clone_url": "https://github.com/tonngw/awesome-github-repos.git",
+      "homepage": "https://awesome.tonngw.com",
+      "stargazers_count": 13,
+      "watchers_count": 13,
+      "language": "JavaScript",
+      "topics": [
+        "awesome-github-repos",
+        "css3",
+        "github-action",
+        "github-pages",
+        "html5",
+        "javascript"
+      ]
+    }
+  ],
   "miscellaneous": [
     {
       "id": 822626564,
